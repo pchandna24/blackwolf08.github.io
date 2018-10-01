@@ -16,14 +16,6 @@ var scene4 = new ScrollMagic.Scene({triggerElement: "#animation4"})
 .setClassToggle('#animation4','active')
 .addTo(controller);
 
-var setMultipleClasses = TweenMax.set($('#animation5'), {
-    className: "container-fluid animated slideInUp"
-});
 
-var scene5 = new ScrollMagic.Scene({
-  triggerElement: "#animation5"
-})
-.setTween(setMultipleClasses)
-.addTo(controller);
 
 

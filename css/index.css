@@ -238,6 +238,11 @@ img{
 	.parallax1{
 
 	background-position: 50% 20%;
+
+}
+.parallex-inner{
+	padding-top: 100%;
+
 }
 .parallax2{
 
@@ -252,6 +257,10 @@ img{
 		padding-left: 30%;
 		left: 3%;
 	}
+	.parallex-inner{
+	padding-top: 100%;
+
+}
 	nav:hover ul{
 
 	left: 5%;
@@ -278,8 +287,11 @@ img{
 
 	}
 	#alishaTxt{
-		padding-left: 36%;
-		left: 3%;
+		padding-left: 32%;
+		left: 0;
+	}
+	.heart{
+		left:37.5%;
 	}
 }
 
@@ -291,8 +303,11 @@ img{
 
 	}
 	#alishaTxt{
-		padding-left: 41%;
+		padding-left: 36%;
 		left: 2%;
+	}
+	.heart{
+		left:42%;
 	}
 }
 
@@ -303,6 +318,10 @@ img{
 		left: 6%;
 		left: 3%;
 		 }
+		 .heart{
+		left:44%;
+	}
+
 	#alishaTxt{
 		padding-left: 40%;
 		left: 3%;
