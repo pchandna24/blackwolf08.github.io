@@ -7,13 +7,8 @@ html, body{
 	width: 100%;
 	font-family: 'Charmonman', cursive !important;
 	background-color: #fcfcfc;
-	overflow: hidden;
 }
-body{
-	overflow-x: hidden;
-	overflow-y: scroll;
-	transform-style: preserve-3d;
-}
+
 
 #home{
 	background-image: url("../imgs/alisha.jpg");
